@@ -12,6 +12,10 @@ How To Start Your Own Reference Table
 Make a Table
 Create a file named REFERENCE_TABLE.md in your project (or just copy ours to start).
 
+- [Reference Table](./reference-table/REFERENCE_TABLE.md)
+- [Protocol Guide](./protocol/PROTOCOL.md)
+- [Whitepaper (draft)](./docs/WHITEPAPER.md)
+
 Add Your First Reference Point
 Example:
 
