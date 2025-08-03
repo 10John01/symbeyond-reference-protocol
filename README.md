@@ -1,3 +1,5 @@
+The SYMBEYOND Reference Table Protocol lets any project—AI, open-source, or team—capture every important lesson, rule, and insight as a living table. It solves the continuity, drift, and onboarding problem for human and AI collaborators. Anyone can fork, start their own table, and make their work unlosable.
+
 How to Use the SYMBEYOND Reference Table Protocol
 Start here. Share this with anyone who forks, clones, or learns from your repo.
 
