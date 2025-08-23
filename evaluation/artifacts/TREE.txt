@@ -1,0 +1,6 @@
+evaluation/.DS_Store
+evaluation/artifacts/SHA256SUMS.txt
+evaluation/artifacts/TREE.txt
+evaluation/prompts/system_symbeyond.txt
+evaluation/prompts/user_sequence.txt
+evaluation/runs/.DS_Store
