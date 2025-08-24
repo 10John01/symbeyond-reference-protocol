@@ -1,6 +1,6 @@
-evaluation/.DS_Store
-evaluation/artifacts/SHA256SUMS.txt
-evaluation/artifacts/TREE.txt
-evaluation/prompts/system_symbeyond.txt
-evaluation/prompts/user_sequence.txt
-evaluation/runs/.DS_Store
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/.DS_Store
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/artifacts/SHA256SUMS.txt
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/artifacts/TREE.txt
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/prompts/system_symbeyond.txt
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/prompts/user_sequence.txt
+/Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/runs/.DS_Store
