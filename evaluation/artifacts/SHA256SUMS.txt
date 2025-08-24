@@ -1,2 +1,5 @@
-be8df862ff305e0f1d8782b0f583c10f4427b252350238b7f12f9fc5fa78100e  /Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/prompts/system_symbeyond.txt
-d8e374389f7d0e0ee72a5614e08b35efed8aab5e67facff470b7cbf2b781ee57  /Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/prompts/user_sequence.txt
+cdbc8b9580b8e256a30c3a53568161ddf9ee66352076b288fcd332b74ad88bf0  /Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/runs/CONTROL/evaluation:runs:SYMBEYOND:gpt4o_2025-08-23_run2_1.txt
+e3e311037f07c573ad3859d88fa8c1c8eaae6b7fe528b49c0fca932b0e71c93b  /Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/runs/CONTROL/evaluation:runs:SYMBEYOND:gpt4o_2025-08-23_run2.txt
+613c32d1c3baf3085f20f47fe0aaa2a1cb08569ade28be6eb8f2954e40059db7  /Users/john/Desktop/symbeyond-reference-protocol/symbeyond-reference-protocol/symbeyond-reference-protocol/evaluation/runs/SYMBEYOND/gpt4o_2025-08-23_run2_1.txt
+be8df862ff305e0f1d8782b0f583c10f4427b252350238b7f12f9fc5fa78100e  evaluation/prompts/system_symbeyond.txt
+d8e374389f7d0e0ee72a5614e08b35efed8aab5e67facff470b7cbf2b781ee57  evaluation/prompts/user_sequence.txt

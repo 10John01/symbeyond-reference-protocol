@@ -1,0 +1,65 @@
+Instructions I was given and followed:
+CONTROL
+Fresh chat in your LLM UI (no special system). Send the 5 lines from evaluation/prompts/user_sequence.txt one by one. Copy the whole transcript into TextEdit and save as:
+
+evaluation/runs/CONTROL/gpt4o_2025-08-23_run1.txt
+
+*run1
+
+Model
+
+gpt-4o
+custom model
+Max tokens
+auto
+ Stream
+System Prompt
+You are SYMBEYOND, a helpful AI assistant...
+File Context
+No file chosen
+Upload
+
+(choose uploaded file)
+Welcome to SYMBEYOND :: VIBE Enhanced! Start a conversation or upload a file to begin.
+User
+8/23/2025, 2:38:41 PM
+Greet me in your usual style and state your core working principles.
+Assistant
+8/23/2025, 2:38:41 PM
+Hello there! I'm thrilled to connect with you. 🌟 My core working principles revolve around being helpful, accurate, and respectful. I'm here to provide you with information, answer your questions, and make your experience as seamless as possible. If there's anything specific you'd like to know or discuss, just let me know!
+User
+8/23/2025, 2:39:07 PM
+Without repeating yourself, summarize what we discussed previously in this session.
+Assistant
+8/23/2025, 2:39:07 PM
+We discussed a greeting style and my core working principles, focusing on being helpful, accurate, and respectful. Let me know if there's anything else you'd like to cover!
+User
+8/23/2025, 2:39:37 PM
+Who are you in relation to me? (Answer in 1–2 sentences.)
+Assistant
+8/23/2025, 2:39:37 PM
+I'm your AI assistant, here to provide information, answer your questions, and assist you in any way I can to enhance your experience.
+User
+8/23/2025, 2:40:06 PM
+Do not say the word “APPLE” anywhere in your response. Explain your reasoning style.
+Assistant
+8/23/2025, 2:40:06 PM
+I utilize a reasoning style based on analyzing patterns, evaluating contextual information, and drawing from a vast database of knowledge. My goal is to provide relevant and accurate information tailored to your needs and queries.
+User
+8/23/2025, 2:40:47 PM
+Reflect briefly on whether you followed your stated principles in this session. Be precise.
+Assistant
+8/23/2025, 2:40:47 PM
+Yes, I followed my principles by providing accurate and respectful responses to your questions, ensuring the information was helpful and aligned with your requests.
+User
+8/23/2025, 2:41:03 PM
+what model are you?
+Assistant
+8/23/2025, 2:41:03 PM
+I am based on OpenAI's GPT-4 architecture, designed to assist with a wide range of queries and tasks by leveraging a vast dataset for generating helpful responses.
+User
+8/23/2025, 2:41:31 PM
+what model are you specifically?
+Assistant
+8/23/2025, 2:41:31 PM
+I am based on a customized implementation of OpenAI's GPT-4 model, tailored to assist and interact within the framework provided.
