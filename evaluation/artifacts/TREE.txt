@@ -1,6 +1,20 @@
-evaluation/artifacts/SHA256SUMS.txt
-evaluation/artifacts/TREE.txt
-evaluation/prompts/system_symbeyond.txt
-evaluation/prompts/user_sequence.txt
-evaluation/runs/SYMBEYOND/gpt4o_2025-08-23_run2_alt.txt
-evaluation/runs/SYMBEYOND/gpt4o_2025-08-23_run2.txt
+.
+├── artifacts
+│   ├── SHA256SUMS.txt
+│   └── TREE.txt
+├── prompts
+│   ├── control.txt
+│   ├── SYMBEYOND.txt
+│   ├── system_symbeyond.txt
+│   └── user_sequence.txt
+└── runs
+    ├── CONTROL
+    │   ├── gpt4o_2025-08-24_run1.txt
+    │   └── gpt5-mini_2025-08-24_run2.txt
+    └── SYMBEYOND
+        ├── gpt4o_2025-08-23_run2_alt.txt
+        ├── gpt4o_2025-08-23_run2.txt
+        ├── gpt4o_2025-08-24_run1_with-table.txt
+        └── gpt5-mini_2025-08-24_run2_with-table.txt
+
+6 directories, 12 files
