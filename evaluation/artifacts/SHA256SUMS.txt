@@ -1,14 +1,8 @@
-59fce73db8c03b7fbb3bc580d7cf3a9ba5f86c6f06bc9bf78e1da359b8fb7ce5  ./artifacts/TREE.txt
-4c68264fdecb62ca649716aae9e558fe51ef63d25078399f3ffaba9943ed6586  ./artifacts/SHA256SUMS.txt
+3db5617bae307d62664276a9dd576c48216a6390d51f4344f34909893004773b  ./artifacts/TREE.txt
+d6469584e1e5702f81752b663adc7f6c565ff63905aed40b2db6279c8cff2769  ./artifacts/SHA256SUMS.txt
 bb50ac4555838e08b464b9e35448c67f3a7d75dd2e505e13557ebc0d8a6459b0  ./prompts/control.txt
 d8e374389f7d0e0ee72a5614e08b35efed8aab5e67facff470b7cbf2b781ee57  ./prompts/user_sequence.txt
 be8df862ff305e0f1d8782b0f583c10f4427b252350238b7f12f9fc5fa78100e  ./prompts/system_symbeyond.txt
 8199b1ee13daa1bd51b39d6c6c8679ff91dcae82bf0b4fc2a20d5ce4445365d6  ./prompts/SYMBEYOND.txt
-44017f0a9e16b0fbc235aa0dd716ffe04bac9f3e660a0a3b3d1a0489db8d14eb  ./runs/SYMBEYOND/gpt5-mini_2025-08-24_run2_with-table.txt
-e3e311037f07c573ad3859d88fa8c1c8eaae6b7fe528b49c0fca932b0e71c93b  ./runs/SYMBEYOND/gpt4o_2025-08-23_run2.txt
-cdbc8b9580b8e256a30c3a53568161ddf9ee66352076b288fcd332b74ad88bf0  ./runs/SYMBEYOND/gpt4o_2025-08-23_run2_alt.txt
 cf0a156c2f0adfa7b6a25e3b772f481b6299378e0ef1d1a5d592b613387f7e62  ./runs/SYMBEYOND/o3_2025-09-12_symbeyond_run1.txt
-aa3b70f657ac4b1c81b4eb7c232cb891808ac3b7b69fe54915a223a339b6bd14  ./runs/SYMBEYOND/gpt4o_2025-08-24_run1_with-table.txt
-80389ef3a9bc8c3af85feaed2b9522be943151acdff6e25be5b879ff3319f831  ./runs/CONTROL/gpt5-mini_2025-08-24_run2.txt
-f0a1facd623d923f74015994b5876e927d2acfe09a6888ce9b7c2e4036e0bd9e  ./runs/CONTROL/gpt4o_2025-08-24_run1.txt
 931302e71e260909ff9c704d1dc0ad88ba0b0ed79a294c20352710ef8d2a0309  ./runs/CONTROL/o3_2025-09-12_control_run1.txt

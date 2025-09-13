@@ -9,14 +9,8 @@
 │   └── user_sequence.txt
 └── runs
     ├── CONTROL
-    │   ├── gpt4o_2025-08-24_run1.txt
-    │   ├── gpt5-mini_2025-08-24_run2.txt
     │   └── o3_2025-09-12_control_run1.txt
     └── SYMBEYOND
-        ├── gpt4o_2025-08-23_run2_alt.txt
-        ├── gpt4o_2025-08-23_run2.txt
-        ├── gpt4o_2025-08-24_run1_with-table.txt
-        ├── gpt5-mini_2025-08-24_run2_with-table.txt
         └── o3_2025-09-12_symbeyond_run1.txt
 
-6 directories, 14 files
+6 directories, 8 files
