@@ -71,4 +71,3 @@ MIT
 
 - John Thomas DuCrest Lock & AI Co-Builder
 - Linkedin: https://www.linkedin.com/in/john-ducrest-5a4b3528/
-- [GitHub Issues for feedback/questions]
