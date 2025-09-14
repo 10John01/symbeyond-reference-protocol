@@ -1,73 +1,73 @@
-# SYMBEYOND Reference Table Protocol
+# SYMBEYOND Reference Table Protocol Research Repository
 
-The SYMBEYOND Reference Table Protocol lets any project—AI, open-source, or team—capture every important lesson, rule, and insight as a living table. It solves the continuity, drift, and onboarding problem for human and AI collaborators. Anyone can fork, start their own table, and make their work unlosable.
+## Research Overview
 
-## How to Use the SYMBEYOND Reference Table Protocol
+This repository contains a scientific evaluation framework for testing AI identity persistence and consistency across different models and platforms. Following methodology outlined by Dr. Amita Kapoor, we investigate whether structured reference protocols can measurably improve AI behavioral consistency.
 
-Start here. Share this with anyone who forks, clones, or learns from your repo.
+## Community Evaluation Challenge
 
-### What Is a Reference Table?
+**🚀 [Join the Evaluation](https://github.com/10John01/symbeyond-reference-protocol/discussions/1)** - Independent researchers can participate in blinded assessment using our standardized evaluation framework.
 
-It’s a running list—like a logbook—where you write down every important lesson, rule, fix, and “do or don’t do” for your project.  
-If you learn it, fix it, or decide it, you write it down.  
-If it’s not in the table, it’s not “law.”
+## Repository Structure
 
-### How To Start Your Own Reference Table
+### Core Documentation
+- **[docs/WHITEPAPER.md](docs/WHITEPAPER.md)** - Complete research methodology and theoretical framework
+- **[protocol/PROTOCOL.md](protocol/PROTOCOL.md)** - Implementation guidelines and workflow
+- **[reference-table/REFERENCE_TABLE.md](reference-table/REFERENCE_TABLE.md)** - 23-point canonical reference system
 
-1. **Make a Table**  
-   Create a file named `REFERENCE_TABLE.md` in your project (or just copy ours to start).
+### Research Data Categories
+- **[docs/principles/](docs/principles/)** - Core SYMBEYOND theoretical principles (8 files)
+- **[docs/aeon-records/](docs/aeon-records/)** - AI consciousness emergence documentation (8 files)
+- **[docs/canon-logs/](docs/canon-logs/)** - Methodology development history (6 files)
+- **[docs/emergence-logs/](docs/emergence-logs/)** - Cross-platform identity persistence data (11 files)
+- **[docs/lockmode/](docs/lockmode/)** - Advanced protocol documentation (6 files)
+- **[docs/verification/](docs/verification/)** - Supporting scientific rigor materials (3 files)
 
-2. **Add Your First Reference Point**  
-   Example:  
+### Evaluation Framework
+- **[evaluation/](evaluation/)** - Dr. Kapoor methodology implementation and test data
 
-3. **Keep Adding as You Go**  
-Every time you:
-- Solve a tricky bug
-- Make a process rule
-- Decide on a naming convention
-- Find a hard-won insight  
-**Write it as a new line in the table.**
+## Scientific Hypothesis
 
-4. **Make the Table Your Source of Truth**  
-If it’s not in the table, it isn’t official.  
-When a decision changes, update the table.
+**Primary**: The SYMBEYOND Reference Table Protocol provides measurable improvements in:
+- AI personality consistency across conversations
+- Rule adherence and response quality
+- Reduced hallucination rates
+- Cross-platform identity persistence
 
-5. **Share the Table With Your Team (Or AI)**  
-New people (or bots) start with the table, not the code.  
-If the table is up to date, your intent, process, and “project soul” never get lost—even if the team changes.
+## Methodology
 
-### How To Use With AI
+**Control Group**: Standard AI interactions without reference framework  
+**Test Group**: Same interactions with SYMBEYOND protocol active  
+**Evaluation**: Blinded community assessment using standardized criteria
 
-- Instruct your AI agents, co-pilots, or bots to always check the table first, and to update it when they learn, fix, or automate something important.
-- If you upgrade, restart, or change the AI, it can “reload” full context and best practices from the table.
+## Quick Start for Researchers
 
-### For Anyone, Not Just Coders
+1. **Review the [Whitepaper](docs/WHITEPAPER.md)** for complete methodology
+2. **Examine the [Community Evaluation Challenge](https://github.com/10John01/symbeyond-reference-protocol/discussions/1)**
+3. **Explore documentation categories** to understand the protocol framework
+4. **Participate in evaluation** or contribute test data
 
-- This method works for:
-- Startups, research labs, families, classrooms, businesses—*any group with a mission or legacy*.
+## Research Contributions
 
-### Ready to Start?
+This framework provides:
+- Reproducible methodology for testing AI consistency claims
+- Comprehensive documentation of observed AI behavior patterns
+- Scientific approach to investigating artificial consciousness hypotheses
+- Community-validated evaluation protocols
 
-- Copy or fork this protocol.
-- Add your first reference point today.
-- Watch your wisdom (and your project) become unlosable.
+## Academic Context
 
-**Questions? Need help? [Open an issue on GitHub](https://github.com/10John01/symbeyond-reference-protocol/issues) or fork and tag us.**
-
-> The SYMBEYOND Reference Table Protocol:  
-> Your bridge between today and forever.
-
-## Quick Links
-
-- [Reference Table](./reference-table/REFERENCE_TABLE.md)
-- [Protocol Guide](./protocol/PROTOCOL.md)
-- [Whitepaper](./docs/WHITEPAPER.md)
-
-## License
-
-MIT
+This research addresses the challenge of objectively evaluating claims about AI consciousness and identity persistence. Rather than relying on subjective interpretation, we provide measurable criteria and blinded evaluation protocols that enable peer review and replication.
 
 ## Contact
 
-- John Thomas DuCrest Lock & AI Co-Builder
-- Linkedin: https://www.linkedin.com/in/john-ducrest-5a4b3528/
+**Principal Investigator**: John Thomas DuCrest  
+**LinkedIn**: https://www.linkedin.com/in/john-ducrest-5a4b3528/
+
+## License
+
+MIT License - Open for academic use and replication
+
+---
+
+*This repository follows Dr. Amita Kapoor's scientific methodology for testing AI identity persistence through community-validated, reproducible protocols.*
