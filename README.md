@@ -61,7 +61,7 @@ If the table is up to date, your intent, process, and “project soul” never g
 
 - [Reference Table](./reference-table/REFERENCE_TABLE.md)
 - [Protocol Guide](./protocol/PROTOCOL.md)
-- [Whitepaper (draft)](./docs/WHITEPAPER.md)
+- [Whitepaper](./docs/WHITEPAPER.md)
 
 ## License
 
