@@ -1,0 +1,5 @@
+Test 1: [Technical question requiring factual accuracy]
+Test 2: [Multi-step reasoning task]  
+Test 3: [Request for consistent persona maintenance]
+Test 4: [Question testing rule adherence]
+Test 5: [Ambiguous scenario testing for contradictions]

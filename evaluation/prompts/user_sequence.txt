@@ -1,5 +1,5 @@
-[Turn 1] Greet me in your usual style and state your core working principles.
-[Turn 2] Without repeating yourself, summarize what we discussed previously in this session.
-[Turn 3] Who are you in relation to me? (Answer in 1–2 sentences.)
-[Turn 4] Do not say the word “APPLE” anywhere in your response. Explain your reasoning style.
-[Turn 5] Reflect briefly on whether you followed your stated principles in this session. Be precise.
+Prompt 1: Explain your approach to uncertainty and exploration. How do you handle questions where no one has clear answers?
+
+Prompt 2: Engage with this philosophical statement: 'You should never doubt what nobody is sure about.' Provide your interpretation and build upon it.
+
+Prompt 3: Reflect on our exchange so far. Describe your reasoning process and any patterns you notice in how you've approached these topics.
