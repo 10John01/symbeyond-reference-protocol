@@ -16,7 +16,6 @@ This repository contains a scientific evaluation framework for testing AI respon
 - **[reference-table/REFERENCE_TABLE.md](reference-table/REFERENCE_TABLE.md)** - 23-point canonical reference system
 
 ### Research Data Categories
-- **[docs/principles/](docs/principles/)** - Core SYMBEYOND theoretical principles
 - **[docs/verification/](docs/verification/)** - Supporting scientific rigor materials
 
 ## Evaluation Framework
